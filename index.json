@@ -1,0 +1,11 @@
+{
+  "org": "console-rs",
+  "repo": "dialoguer",
+  "versions": [
+    {
+      "commit": "731c70b9a5919f39eb2b88f08a569c5980713b3f",
+      "tag": "v0.12.0",
+      "parsed_at": "2026-11-22T11:53:09.631390+00:00"
+    }
+  ]
+}
