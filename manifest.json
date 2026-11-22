@@ -108,7 +108,9 @@
           "githubUrl": "https://github.com/tmiasko/shell-words",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/731c70b9a5919f39eb2b88f08a569c5980713b3f/chunk-001.nq.gz",
+      "dep": "dep/731c70b9a5919f39eb2b88f08a569c5980713b3f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
