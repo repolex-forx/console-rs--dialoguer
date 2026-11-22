@@ -54,6 +54,60 @@
       ],
       "ast": [
         "aggregate/ast/731c70b9a5919f39eb2b88f08a569c5980713b3f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/731c70b9a5919f39eb2b88f08a569c5980713b3f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "console",
+          "ecosystem": "CARGO",
+          "version": "0.16.0",
+          "githubOrg": "console-rs",
+          "githubRepo": "console",
+          "githubCommit": "bda6a6e7a7e5e1ca4f66f51bd11faa70a1f37331",
+          "githubTag": "0.16.0",
+          "githubUrl": "https://github.com/console-rs/console",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "zeroize",
+          "ecosystem": "CARGO",
+          "version": "1.1.1",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "utils",
+          "githubUrl": "https://github.com/RustCrypto/utils",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "fuzzy-matcher",
+          "ecosystem": "CARGO",
+          "version": "0.3.7",
+          "githubOrg": "lotabout",
+          "githubRepo": "fuzzy-matcher",
+          "githubCommit": "ee73fa4559a9ea06e51b54b0a436590c911c18a1",
+          "githubTag": "v0.3.7",
+          "githubUrl": "https://github.com/lotabout/fuzzy-matcher",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "shell-words",
+          "ecosystem": "CARGO",
+          "version": "1.1.0",
+          "githubOrg": "tmiasko",
+          "githubRepo": "shell-words",
+          "githubCommit": "045e4dccd2478ccc8bfa91bd0fe449dfe5473496",
+          "githubTag": "v1.1.0",
+          "githubUrl": "https://github.com/tmiasko/shell-words",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
